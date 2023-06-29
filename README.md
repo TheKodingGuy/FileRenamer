@@ -9,4 +9,4 @@ Second, add the path to the "rename" variable in the file "file_renamer_v01.py".
 
 Third, run the script.
 
-Hope this works :)
+Hope this works :D
