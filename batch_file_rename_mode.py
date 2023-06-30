@@ -41,7 +41,8 @@ def batch_mode():
 
             for f in os.listdir():
                 move_src = f
-                move_dst = r'C:\Users\John Marx\Documents\Python_Projects\File_Renamer\Renamed_Files'
+                move_dst = r'C:\Users\Example\Example\Example\File_Renamer\Files_To_Rename'
+                # ^ ENTER THE NAME OF THE DIRECTORY WHERE YOU WOULD LIKE YOUR RENMAED FILES STORED
 
                 shutil.move(move_src, move_dst)
 
