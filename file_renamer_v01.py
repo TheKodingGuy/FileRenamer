@@ -1,3 +1,5 @@
+# RUN PROGRAM HERE
+
 import os
 from renamer import renamer
 
